@@ -1,3 +1,4 @@
+![IMG-20200505-WA0031](https://user-images.githubusercontent.com/84279094/118890144-18a71200-b8f6-11eb-80a8-aff89547a0d6.jpg)
 # HELLO WORLD 
 ![IMG-20200812-WA0007](https://user-images.githubusercontent.com/84279094/118888054-0f687600-b8f3-11eb-8d0f-bd9f1d94ee8b.jpg)
 
@@ -22,3 +23,5 @@ Now tell me if she’s not worth every heart break I ever felt, every blood I sh
 ##### On an ending note, I've made so many mistakes, so many wrong choices, but you the one best choice that corrects every mistake I ever made, you make every mistake, every wrong step worth it, and if Loving You was a mistake then it's the best mistake I've ever made, it's so good, it feels like a perfect choice. My World, this is my apology, This is my plea and assurance to do better.
 
 ![IMG-20140614-WA0001](https://user-images.githubusercontent.com/84279094/118889815-91f23500-b8f5-11eb-89cb-cd77c1dcd99e.jpg)
+![Snapchat-1818380465](https://user-images.githubusercontent.com/84279094/118890139-16dd4e80-b8f6-11eb-81a0-a99a0d45bc35.jpg)
+![Emmanuel Aj 20141125_184917](https://user-images.githubusercontent.com/84279094/118890143-180e7b80-b8f6-11eb-8735-bfba35dfc332.jpg)
