@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# HELLO WORLD 
 
-You can use the [editor on GitHub](https://github.com/Micayowrite/World-Temi-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## WELCOME TO PERFECTIONS PAGE
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Micayowrite/World-Temi-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### TITLE: Second day of March 2021 (2/05/2021)
+My love story begins where every love story starts from, I fell in love. Although it’s a bit more complicated than that, it took months, blood, sweat and tears to accomplish it, but if you ask me presently if it’s worth it, I’d answer with these words;
+“She the reason I live, if living was falling in love with her every day, then I live every day. She the reason I never want to stop having. Her relishing beauty alone makes my sun rise, my heart skip beats and my smile splendid. I found perfection, love, glamour, pleasure, inspiration, an hidden treasure, a mended soul and a melted heart and love, all in her, to top it all up, she’s my greatest strength, my greatest weakness, the reason I go crazy, like crazy in love. She the only reason I love, funny enough I have no idea why I love her this much, but it’s a great feeling. I believe it was William Wordsworth who defined poetry as the spontaneous overflow of powerful emotions recollected in tranquility. She my poetry, and every minute I spend with her makes me speechless, every poem I write for her make my weak, cause I’m usually exhausted from the constant racking of my brain trying to find words to describe her and I don’t mean funny, smart, beauty or those flattering non sense anyone can coin, I mean words that will make even nature jealous. Just so you know, if you looking for beauty in person, I’ve seen her, she’s the queen of my heart, my inspiration, my perfect princess and God’s personal angel sent to safe me, and shape my heart to love, comparing her to nature would be a grave offence, nature worships her beauty, her perfection, her royalty, she’s just too good to be true”. 
+Now tell me if she’s not worth every heart break I ever felt, every blood I shed, every pain I ever knew and every time I waited?
